@@ -1,0 +1,81 @@
+id_registro,data,hora,nome_modulo,tipo,cod_sensor,prioridade,latencia_prev,latencia_observada,corrente_ka,status,sms_alerta
+1,2036-08-19,00:00:00,Hab 3.0,Habitação,HAB-AS-201,3,0.0,15.9,3.8,Alerta,Ruptura térmica em cabo de conexão exposto.
+2,2036-08-19,00:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.1,19.9,1.8,Ativo,Operação normal
+3,2036-08-19,00:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.5,,,Manutenção,Manutenção programada
+4,2036-08-19,00:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.0,9.0,1.5,Ativo,Operação normal
+5,2036-08-19,04:00:00,Hab 3.0,Habitação,HAB-AS-201,3,0.0,17.6,5.7,Alerta,Queda de conectividade na antena parabólica principal.
+6,2036-08-19,04:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.0,,,Manutenção,Manutenção programada
+7,2036-08-19,04:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.4,12.0,3.1,Ativo,Operação normal
+8,2036-08-19,04:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.1,,,Manutenção,Manutenção programada
+9,2036-08-19,08:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.4,15.0,2.5,Ativo,Operação normal
+10,2036-08-19,08:00:00,HP 2.0,Mantimentos,HP-AS-202,3,19.8,22.2,1.9,Ativo,Operação normal
+11,2036-08-19,08:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,0.0,13.7,6.0,Alerta,Queda de conectividade na antena parabólica principal.
+12,2036-08-19,08:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.2,7.499999999999999,1.6,Ativo,Operação normal
+13,2036-08-19,12:00:00,Hab 3.0,Habitação,HAB-AS-201,3,0.0,16.3,5.1,Alerta,Ruptura térmica em cabo de conexão exposto.
+14,2036-08-19,12:00:00,HP 2.0,Mantimentos,HP-AS-202,3,19.9,19.2,1.8,Ativo,Operação normal
+15,2036-08-19,12:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.6,11.9,2.5,Ativo,Operação normal
+16,2036-08-19,12:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.1,8.5,1.5,Ativo,Operação normal
+17,2036-08-19,16:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.6,12.7,2.5,Ativo,Operação normal
+18,2036-08-19,16:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.0,17.4,1.9,Ativo,Operação normal
+19,2036-08-19,16:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,0.0,11.7,5.5,Alerta,Desalinhamento crítico do transceptor óptico.
+20,2036-08-19,16:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.0,6.5,1.5,Ativo,Operação normal
+21,2036-08-19,20:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.4,15.9,2.4,Ativo,Operação normal
+22,2036-08-19,20:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.2,18.8,1.8,Ativo,Operação normal
+23,2036-08-19,20:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,0.0,10.3,7.4,Alerta,Interferência eletromagnética severa (tempestade solar).
+24,2036-08-19,20:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.1,,,Manutenção,Manutenção programada
+25,2036-08-20,00:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.3,,,Manutenção,Manutenção programada
+26,2036-08-20,00:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.1,22.3,1.8,Ativo,Operação normal
+27,2036-08-20,00:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.3,12.0,3.1,Ativo,Operação normal
+28,2036-08-20,00:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.2,8.299999999999999,1.5,Ativo,Operação normal
+29,2036-08-20,04:00:00,Hab 3.0,Habitação,HAB-AS-201,3,0.0,13.3,4.4,Alerta,Interferência eletromagnética severa (tempestade solar).
+30,2036-08-20,04:00:00,HP 2.0,Mantimentos,HP-AS-202,3,0.0,0.1,2.5,Ativo,Operação normal
+31,2036-08-20,04:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,0.0,12.6,6.5,Alerta,Interferência eletromagnética severa (tempestade solar).
+32,2036-08-20,04:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,0.0,6.4,3.2,Alerta,Ruptura térmica em cabo de conexão exposto.
+33,2036-08-20,08:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.5,16.1,2.5,Ativo,Operação normal
+34,2036-08-20,08:00:00,HP 2.0,Mantimentos,HP-AS-202,3,0.0,19.1,3.4,Alerta,Queda de conectividade na antena parabólica principal.
+35,2036-08-20,08:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.5,12.1,3.2,Ativo,Operação normal
+36,2036-08-20,08:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.0,7.1,2.6,Alerta,Ruptura térmica em cabo de conexão exposto.
+37,2036-08-20,12:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.6,18.4,2.5,Ativo,Operação normal
+38,2036-08-20,12:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.1,20.0,1.9,Ativo,Operação normal
+39,2036-08-20,12:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.6,11.0,3.3,Ativo,Operação normal
+40,2036-08-20,12:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.1,9.3,1.6,Ativo,Operação normal
+41,2036-08-20,16:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.5,13.7,4.3,Alerta,Ruptura térmica em cabo de conexão exposto.
+42,2036-08-20,16:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.2,20.5,1.8,Ativo,Operação normal
+43,2036-08-20,16:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.5,9.6,3.2,Ativo,Operação normal
+44,2036-08-20,16:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.2,6.199999999999999,1.5,Ativo,Operação normal
+45,2036-08-20,20:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.4,15.7,2.4,Ativo,Operação normal
+46,2036-08-20,20:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.0,21.1,4.5,Alerta,Sobrecarga no buffer de recepção de dados telemétricos.
+47,2036-08-20,20:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.4,12.7,3.1,Ativo,Operação normal
+48,2036-08-20,20:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.1,7.899999999999999,1.5,Ativo,Operação normal
+49,2036-08-21,00:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.3,14.8,2.4,Ativo,Operação normal
+50,2036-08-21,00:00:00,HP 2.0,Mantimentos,HP-AS-202,3,0.0,17.7,2.9,Alerta,Queda de conectividade na antena parabólica principal.
+51,2036-08-21,00:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.3,11.2,3.0,Ativo,Operação normal
+52,2036-08-21,00:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.0,7.3,1.5,Ativo,Operação normal
+53,2036-08-21,04:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.2,16.8,2.4,Ativo,Operação normal
+54,2036-08-21,04:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.0,20.5,1.8,Ativo,Operação normal
+55,2036-08-21,04:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.4,9.8,3.1,Ativo,Operação normal
+56,2036-08-21,04:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.1,8.6,2.6,Alerta,Sobrecarga no buffer de recepção de dados telemétricos.
+57,2036-08-21,08:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.4,14.8,2.4,Ativo,Operação normal
+58,2036-08-21,08:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.1,19.1,1.9,Ativo,Operação normal
+59,2036-08-21,08:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.5,13.4,3.1,Ativo,Operação normal
+60,2036-08-21,08:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.2,9.7,1.6,Ativo,Operação normal
+61,2036-08-21,12:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.5,16.9,2.5,Ativo,Operação normal
+62,2036-08-21,12:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.2,18.9,3.1,Alerta,Falha na sincronização do relógio de rede da colônia.
+63,2036-08-21,12:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.6,12.1,3.2,Ativo,Operação normal
+64,2036-08-21,12:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.3,8.8,2.5,Ativo,Operação normal
+65,2036-08-21,16:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.6,17.1,2.5,Ativo,Operação normal
+66,2036-08-21,16:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.1,19.4,1.8,Ativo,Operação normal
+67,2036-08-21,16:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.5,12.2,3.2,Ativo,Operação normal
+68,2036-08-21,16:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.2,6.499999999999999,2.5,Alerta,Queda de conectividade na antena parabólica principal.
+69,2036-08-21,20:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.4,13.6,4.0,Alerta,Queda de conectividade na antena parabólica principal.
+70,2036-08-21,20:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.0,21.2,1.8,Ativo,Operação normal
+71,2036-08-21,20:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,0.0,14.4,6.7,Alerta,Queda de conectividade na antena parabólica principal.
+72,2036-08-21,20:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.1,8.0,1.5,Ativo,Operação normal
+73,2036-08-22,00:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.3,16.8,2.5,Ativo,Operação normal
+74,2036-08-22,00:00:00,HP 2.0,Mantimentos,HP-AS-202,3,19.9,20.4,3.3,Alerta,Interferência eletromagnética severa (tempestade solar).
+75,2036-08-22,00:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.3,11.3,3.0,Ativo,Operação normal
+76,2036-08-22,00:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.0,8.5,1.5,Ativo,Operação normal
+77,2036-08-22,04:00:00,Hab 3.0,Habitação,HAB-AS-201,3,15.2,17.5,2.4,Ativo,Operação normal
+78,2036-08-22,04:00:00,HP 2.0,Mantimentos,HP-AS-202,3,20.0,19.9,1.8,Ativo,Operação normal
+79,2036-08-22,04:00:00,Comas 3.0,Comunicação,CAS-AS-203,2,12.4,14.7,3.1,Ativo,Operação normal
+80,2036-08-22,04:00:00,DATAS 1.0,Armazenamento de dados,DT-AS-204,1,8.1,4.199999999999999,1.5,Ativo,Operação normal
